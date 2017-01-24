@@ -28,4 +28,4 @@
 ## InconInput Empirical Yang:
 - [0500-inconinput-empiricalyang-33scatter][1]
 
-[1]:	kathrynschuler.com/analyses/0d22e85d-7edf-4ecd-aa44-ebe7f1c80a8b/0500-inconinput-empiricalyang-33scatter-summary.html
+[1]:	0d22e85d-7edf-4ecd-aa44-ebe7f1c80a8b/0500-inconinput-empiricalyang-33scatter-summary.html
