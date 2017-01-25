@@ -1,4 +1,4 @@
-# Empirical Yang
+# Empirical Yang Index
 
 ## Publications & Presentations
 - Nov 2016 BUCLD Poster
