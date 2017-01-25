@@ -1,10 +1,11 @@
 # Empirical Yang Index
+[\<— back to all experiments][1]
 
 ## Publications & Presentations
-- Nov 2016 BUCLD Poster
-- 2016 CogSci Paper
+- [2016 BUCLD Poster][2]
+- [2016 CogSci Paper][3]
 - 2016 Penn Common Ground Talk
-- Oct 2015 CDS Poster
+- [2015 CDS Poster][4]
 
 ## Empirical Yang Adult 36-Noun
 - 0170-empiricalyang-36noun-mfrule-mturk
@@ -24,3 +25,8 @@
 
 ## Empirical Yang Paradigm Development
 - coming soon…
+
+[1]:	http://kathrynschuler.com/assets
+[2]:	http://kathrynschuler.com/assets/pdf/2016-SchulerYangNewport-BUCLD.pdf
+[3]:	http://kathrynschuler.com/assets/pdf/2016-SchulerYangNewport.pdf
+[4]:	http://kathrynschuler.com/assets/pdf/2015-SchulerDavisYangNewport.pdf
