@@ -1,11 +1,11 @@
 # Empirical Yang Index
-[\<— back to all experiments][1]
+[\<\< back to all experiments][1]
 
 ## Publications & Presentations
-- [2016 BUCLD Poster][2]
-- [2016 CogSci Paper][3]
+- [2016 BUCLD Poster][2] - Schuler, K.D., Yang, C., & Newport, E.L.
+- [2016 CogSci Paper][3] - Schuler, K.D., Yang, C., & Newport, E.L.
 - 2016 Penn Common Ground Talk
-- [2015 CDS Poster][4]
+- [2015 CDS Poster][4]- Schuler, K.D., Davis, J.D., Yang, C. & Newport, E.L.
 
 ## Empirical Yang Adult 36-Noun
 - 0170-empiricalyang-36noun-mfrule-mturk
