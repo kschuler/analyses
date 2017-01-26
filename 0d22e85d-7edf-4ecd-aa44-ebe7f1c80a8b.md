@@ -2,10 +2,11 @@
 [\<\< back to all experiments][1]
 
 ## Publications & Presentations
-- [2016 BUCLD Poster][2] - Schuler, K.D., Yang, C., & Newport, E.L.
-- [2016 CogSci Paper][3] - Schuler, K.D., Yang, C., & Newport, E.L.
-- 2016 Penn Common Ground Talk
-- [2015 CDS Poster][4]- Schuler, K.D., Davis, J.D., Yang, C. & Newport, E.L.
+**Schuler, K.D.**, Yang, C. & Newport, E.L (2016) Children form productive rules when it is more computationally efficient to do so. Poster presented at the Boston University Conference on Language Development, Boston, MA
+[\[poster]][2]
+**Schuler, K.D.**, Yang, C., & Newport, E.L. (2016) Testing the Tolerance Principle: Children form productive rules when it is more computationally efficient to do so. Proceedings of the 38th Annual Conference of the Cognitive Science Society.[\[pdf]][3]
+**Schuler, K.D. **The Tolerance Principle in language acquisition. Research presentation at Common Ground, Institute for Cognitive Science, University of Pennsylvania, April 2016. [\[slides]]()
+**Schuler, K.D.**, Davis, J., Yang, C., Newport, E.L. (2015) Testing the tolerance principle for rule productivity in an artificial grammar. Poster Presented at the 9th Biennial Meeting of the Cognitive Development Society. Columbus, OH. [\[poster]][5]
 
 ## Empirical Yang Adult 36-Noun
 - 0170-empiricalyang-36noun-mfrule-mturk
@@ -29,4 +30,4 @@
 [1]:	http://kathrynschuler.com/analyses
 [2]:	http://kathrynschuler.com/assets/pdf/2016-SchulerYangNewport-BUCLD.pdf
 [3]:	http://kathrynschuler.com/assets/pdf/2016-SchulerYangNewport.pdf
-[4]:	http://kathrynschuler.com/assets/pdf/2015-SchulerDavisYangNewport.pdf
+[5]:	http://kathrynschuler.com/assets/pdf/2015-SchulerDavisYangNewport.pdf
