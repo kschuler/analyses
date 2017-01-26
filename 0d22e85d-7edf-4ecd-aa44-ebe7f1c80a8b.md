@@ -26,7 +26,7 @@
 ## Empirical Yang Paradigm Development
 - coming soon…
 
-[1]:	http://kathrynschuler.com/assets
+[1]:	http://kathrynschuler.com/analyses
 [2]:	http://kathrynschuler.com/assets/pdf/2016-SchulerYangNewport-BUCLD.pdf
 [3]:	http://kathrynschuler.com/assets/pdf/2016-SchulerYangNewport.pdf
 [4]:	http://kathrynschuler.com/assets/pdf/2015-SchulerDavisYangNewport.pdf
