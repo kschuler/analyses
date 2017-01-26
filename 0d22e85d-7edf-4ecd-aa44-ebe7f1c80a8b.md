@@ -1,16 +1,15 @@
 # Empirical Yang Index
-[\<\< back to all experiments][1]
 
+[Summary of all experiments.]()
 ## Publications & Presentations
 
-**Schuler, K.D.**, Yang, C. & Newport, E.L (2016) Children form productive rules when it is more computationally efficient to do so. Poster presented at the Boston University Conference on Language Development, Boston, MA
-[poster][2]
+**Schuler, K.D.**, Yang, C. & Newport, E.L (2016) [Children form productive rules when it is more computationally efficient to do so][2]. Poster presented at the Boston University Conference on Language Development, Boston, MA
 
-**Schuler, K.D.**, Yang, C., & Newport, E.L. (2016) Testing the Tolerance Principle: Children form productive rules when it is more computationally efficient to do so. Proceedings of the 38th Annual Conference of the Cognitive Science Society.[pdf][3]
+**Schuler, K.D.**, Yang, C., & Newport, E.L. (2016) [Testing the Tolerance Principle: Children form productive rules when it is more computationally efficient to do so.][3] Proceedings of the 38th Annual Conference of the Cognitive Science Society.
 
-**Schuler, K.D. **The Tolerance Principle in language acquisition. Research presentation at Common Ground, Institute for Cognitive Science, University of Pennsylvania, April 2016. [slides]()
+**Schuler, K.D. **[The Tolerance Principle in language acquisition.]() Research presentation at Common Ground, Institute for Cognitive Science, University of Pennsylvania, April 2016. 
 
-**Schuler, K.D.**, Davis, J., Yang, C., Newport, E.L. (2015) Testing the tolerance principle for rule productivity in an artificial grammar. Poster Presented at the 9th Biennial Meeting of the Cognitive Development Society. Columbus, OH. [poster][5]
+**Schuler, K.D.**, Davis, J., Yang, C., Newport, E.L. (2015) [Testing the tolerance principle for rule productivity in an artificial grammar.][5] Poster Presented at the 9th Biennial Meeting of the Cognitive Development Society. Columbus, OH. 
 
 ## Empirical Yang Adult 36-Noun
 - 0170-empiricalyang-36noun-mfrule-mturk
@@ -31,7 +30,6 @@
 ## Empirical Yang Paradigm Development
 - coming soon…
 
-[1]:	http://kathrynschuler.com/analyses
 [2]:	http://kathrynschuler.com/assets/pdf/2016-SchulerYangNewport-BUCLD.pdf
 [3]:	http://kathrynschuler.com/assets/pdf/2016-SchulerYangNewport.pdf
 [5]:	http://kathrynschuler.com/assets/pdf/2015-SchulerDavisYangNewport.pdf
