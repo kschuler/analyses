@@ -1,6 +1,7 @@
 # Empirical Yang Index
 
 [Summary of all experiments.]()
+
 ## Publications & Presentations
 
 **Schuler, K.D.**, Yang, C. & Newport, E.L (2016) [Children form productive rules when it is more computationally efficient to do so][2]. Poster presented at the Boston University Conference on Language Development, Boston, MA
